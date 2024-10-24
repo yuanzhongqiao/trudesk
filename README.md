@@ -1,66 +1,62 @@
-<h1 align="center">
-<a href="http://trudesk.io"><img src="http://trudesk.io/TD_Black.png" width="500" /></a>
-<br />Community Edition
-</h1>
-<p align="center">
-<a href="https://app.codacy.com/gh/polonel/trudesk/dashboard"><img alt="Codacy grade" src="https://img.shields.io/codacy/grade/3228c30aa1d14530ba25a04948985079?style=flat-square"></a>
-<a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square" /></a>
-<a href="https://app.circleci.com/pipelines/github/polonel/trudesk"><img src="https://img.shields.io/circleci/token/ad7d2d066a75685a15c8e2fd08bd75e53b18fbb7/project/github/polonel/trudesk/master.svg?style=flat-square" /></a>
-<a href="https://forum.trudesk.io"><img src="https://img.shields.io/discourse/https/forum.trudesk.io/topics.svg?style=flat-square" /></a>
-<a title="Crowdin" target="_blank" href="https://crowdin.com/project/trudesk"><img src="https://d322cqt584bo4o.cloudfront.net/trudesk/localized.svg?style=flat-square"></a>
-<a href="https://github.com/polonel/trudesk/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-APACHE%202-green.svg?style=flat-square" /></a>
-<a href="https://github.com/polonel/trudesk/releases"><img src="https://img.shields.io/github/release/polonel/trudesk.svg?style=flat-square" /></a>
-<a href="https://docs.trudesk.io/v1.2"><img src="https://img.shields.io/badge/documentation-click%20to%20read-blue.svg?style=flat-square" /></a>
-<br />
-<sub>© 2014-2023, Trudesk, Inc. (<b><a href="https://trudesk.io">@trudesk</a></b>).</sub>
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
+<a href="http://trudesk.io" rel="nofollow"><img src="https://camo.githubusercontent.com/0007c1de65cf17acea90962459661df613e4a55dba8e41a3815fe4db6184e441/687474703a2f2f7472756465736b2e696f2f54445f426c61636b2e706e67" width="500" data-canonical-src="http://trudesk.io/TD_Black.png" style="max-width: 100%;"></a>
+<br><font _mstmutation="1" _msttexthash="8463234" _msthash="328">社区版</font></h1><a id="user-content-community-edition" class="anchor" aria-label="永久链接：社区版" href="#community-edition" _mstaria-label="684879" _msthash="329"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+<a href="https://app.codacy.com/gh/polonel/trudesk/dashboard" rel="nofollow"><img alt="Codacy 等级" src="https://camo.githubusercontent.com/8d05a3c04ec5cfc82c354b7876d73aa9e748fa42c3ffe2b274668fff3071644f/68747470733a2f2f696d672e736869656c64732e696f2f636f646163792f67726164652f33323238633330616131643134353330626132356130343934383938353037393f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/codacy/grade/3228c30aa1d14530ba25a04948985079?style=flat-square" style="max-width: 100%;" _mstalt="175175" _msthash="330"></a>
+<a href="https://standardjs.com" rel="nofollow"><img src="https://camo.githubusercontent.com/279a473ed0e9c3133489c7c5f0cd24a8cdd72daa3fe350561eb0cf2df3e1d744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64655f7374796c652d7374616e646172642d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://app.circleci.com/pipelines/github/polonel/trudesk" rel="nofollow"><img src="https://camo.githubusercontent.com/b6ca32868869acec4f810e8b3e94f7bfbc4bad6315b7623c9a653bc6d86a7c5d/68747470733a2f2f696d672e736869656c64732e696f2f636972636c6563692f746f6b656e2f616437643264303636613735363835613135633865326664303862643735653533623138666262372f70726f6a6563742f6769746875622f706f6c6f6e656c2f7472756465736b2f6d61737465722e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/circleci/token/ad7d2d066a75685a15c8e2fd08bd75e53b18fbb7/project/github/polonel/trudesk/master.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://forum.trudesk.io" rel="nofollow"><img src="https://camo.githubusercontent.com/27e0b858ef2e8b4b089affae6dbfd9cab1795a5108725f7f076d9b6fd0b7e0fa/68747470733a2f2f696d672e736869656c64732e696f2f646973636f757273652f68747470732f666f72756d2e7472756465736b2e696f2f746f706963732e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/discourse/https/forum.trudesk.io/topics.svg?style=flat-square" style="max-width: 100%;"></a>
+<a title="Crowdin" href="https://crowdin.com/project/trudesk" rel="nofollow"><img src="https://camo.githubusercontent.com/99482402ed1d15b9d4bdeb0b9fec7d0130d390b05b59b36aeab4dae459a8410e/68747470733a2f2f64333232637174353834626f346f2e636c6f756466726f6e742e6e65742f7472756465736b2f6c6f63616c697a65642e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://d322cqt584bo4o.cloudfront.net/trudesk/localized.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://github.com/polonel/trudesk/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/d5adc0666c07397b448bd51b6b13e4946aa788656815bcf929f043be7cdbc01f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d415041434845253230322d677265656e2e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/badge/license-APACHE%202-green.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://github.com/polonel/trudesk/releases"><img src="https://camo.githubusercontent.com/23c5fc9334ad58f6a80df134ad5178fa0734cab5c201c0bea154e09161d607cd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f706f6c6f6e656c2f7472756465736b2e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/github/release/polonel/trudesk.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://docs.trudesk.io/v1.2" rel="nofollow"><img src="https://camo.githubusercontent.com/5ea77c7b4003255da44e4a71244a8be5afe1837efda23a2857dca35c82272f61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63756d656e746174696f6e2d636c69636b253230746f253230726561642d626c75652e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/badge/documentation-click%20to%20read-blue.svg?style=flat-square" style="max-width: 100%;"></a>
+<br>
+<sub _msttexthash="110306443" _msthash="331">© 2014-2023 年，Trudesk， Inc.（<b _istranslated="1"><a href="https://trudesk.io" rel="nofollow" _istranslated="1">@trudesk</a></b>）。</sub>
 </p>
-<br />
-
-### Open Source Help Desk - Simply Organized.
-Quickly resolve issues & task with an easy-to-use solution. Built with one goal in mind, to keep work loads organized and simple. **This is the source for Trudesk Community Edition. For the more comprehensive, cloud-hosted version, please see Trudesk Cloud at <a href="http://trudesk.io">Trudesk.io</a>.**
-
-<p align="center">
-    <img src="https://trudesk.io/images/hero-td-right.png" />
+<br>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="35928711" _msthash="332">开源帮助台 - 简单有序。</h3><a id="user-content-open-source-help-desk---simply-organized" class="anchor" aria-label="永久链接：开源帮助台 - 简单易懂。" href="#open-source-help-desk---simply-organized" _mstaria-label="1677195" _msthash="333"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="1270829079" _msthash="334">快速解决问题和任务，提供易于使用的解决方案。构建时牢记一个目标，即保持工作负载井井有条且简单。<strong _istranslated="1">这是 Trudesk Community Edition 的源代码。有关更全面的云托管版本，请参阅 <a href="http://trudesk.io" rel="nofollow" _istranslated="1">Trudesk.io</a> 的 Trudesk Cloud。</strong></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7983667882da0045d9957a4018c3d3ee4c220e6a3842f60e30014d0535b3759b/68747470733a2f2f7472756465736b2e696f2f696d616765732f6865726f2d74642d72696768742e706e67"><img src="https://camo.githubusercontent.com/7983667882da0045d9957a4018c3d3ee4c220e6a3842f60e30014d0535b3759b/68747470733a2f2f7472756465736b2e696f2f696d616765732f6865726f2d74642d72696768742e706e67" data-canonical-src="https://trudesk.io/images/hero-td-right.png" style="max-width: 100%;"></a>
 </p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="7097636" _msthash="335">部署 Trudesk Anywhere</h4><a id="user-content-deploy-trudesk-anywhere" class="anchor" aria-label="永久链接：部署 Trudesk Anywhere" href="#deploy-trudesk-anywhere" _mstaria-label="921102" _msthash="336"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="522177682" _msthash="337"><strong _mstmutation="1" _istranslated="1">Trudesk</strong> 是使用 <a href="https://nodejs.org" rel="nofollow" _mstmutation="1" _istranslated="1">nodejs</a> 和 <a href="https://mongodb.org" rel="nofollow" _mstmutation="1" _istranslated="1">mongodb</a> 构建的，可以在任何云提供商、docker、裸机甚至 Raspberry Pi 上运行。
+在 Ubuntu 20.04 上试一试 -</font><br><code>curl -L -s https://storage.trudesk.io/install/ubuntu-1.2.sh | sudo bash</code></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6085547" _msthash="338">要求</h4><a id="user-content-requirements" class="anchor" aria-label="永久链接： 要求" href="#requirements" _mstaria-label="524849" _msthash="339"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="6083584" _msthash="340">节点JS 16+</li>
+<li _msttexthash="13490217" _msthash="341">MongoDB 5.0+ 版本</li>
+<li _msttexthash="103949443" _msthash="342">Elasticsearch 8（可选以启用搜索）</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5144373" _msthash="343">文档</h3><a id="user-content-documentation" class="anchor" aria-label="永久链接： 文档" href="#documentation" _mstaria-label="559767" _msthash="344"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="22071296" _msthash="345">在线文档： <a href="https://docs.trudesk.io/v1.2" rel="nofollow" _istranslated="1">https://docs.trudesk.io/v1.2</a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="346">贡献</h3><a id="user-content-contributing" class="anchor" aria-label="永久链接： 贡献" href="#contributing" _mstaria-label="521066" _msthash="347"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="284402547" _msthash="348">如果您喜欢此处看到的内容，并希望帮助支持正在进行的工作，您可以：</p>
+<ul dir="auto">
+<li _msttexthash="4579796" _msthash="349">报告 Bug</li>
+<li _msttexthash="21801936" _msthash="350">请求/实施功能</li>
+<li _msttexthash="15971293" _msthash="351">重构代码库</li>
+<li _msttexthash="18802303" _msthash="352">帮助编写文档</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="8048144" _msthash="353">赞助商</h3><a id="user-content-sponsors" class="anchor" aria-label="永久链接： 赞助商" href="#sponsors" _mstaria-label="380380" _msthash="354"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="62008557" _msthash="355">只有少数人使该项目成为可能。</font><br>
+<a href="https://www.browserstack.com" rel="nofollow"><img src="https://camo.githubusercontent.com/71006825b5b0aeacd0501e5b5deba131062400198ddc441a6453494a45a8fb3d/68747470733a2f2f66696c65732e7472756465736b2e696f2f62726f77736572737461636b2d6c6f676f2d363030783331352e706e67" width="115" data-canonical-src="https://files.trudesk.io/browserstack-logo-600x315.png" style="max-width: 100%;"></a></p>
+<p dir="auto" _msttexthash="113727679" _msthash="356">Trudesk 使用 <a href="https://browserstack.com" rel="nofollow" _istranslated="1">BrowserStack</a> 进行了自信的测试。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9675445" _msthash="357">许可证</h3><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license" _mstaria-label="331903" _msthash="358"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>Copyright 2014-2023 Trudesk, Inc.
 
-#### Deploy Trudesk Anywhere
-**Trudesk** is built with <a href="https://nodejs.org">nodejs</a> and <a href="https://mongodb.org">mongodb</a> and can run on any cloud provider, docker, bare-metal, or even a raspberry pi.
-Take it for a spin on Ubuntu 20.04 with a one liner - <br />`curl -L -s https://storage.trudesk.io/install/ubuntu-1.2.sh | sudo bash`
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-#### Requirements
-- NodeJS 16+
-- MongoDB 5.0+
-- Elasticsearch 8 (optional to enable search)
+http://www.apache.org/licenses/LICENSE-2.0
 
-### Documentation
-Online documentation: [https://docs.trudesk.io/v1.2](https://docs.trudesk.io/v1.2)
-
-### Contributing
-If you like what you see here, and want to help support the work being done, you could:
-+ Report Bugs
-+ Request/Implement Features
-+ Refactor Codebase
-+ Help Write Documentation
-
-### Sponsors
-Just a few who have made the project possible.
-<br />
-<a href="https://www.browserstack.com"><img src="https://files.trudesk.io/browserstack-logo-600x315.png" width="115" /></a>
-
-Trudesk is tested with confidence using [BrowserStack](https://browserstack.com).
-
-### License
-
-    Copyright 2014-2023 Trudesk, Inc.
-    
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-    
-    http://www.apache.org/licenses/LICENSE-2.0
-    
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+</code></pre><div class="zeroclipboard-container">
+     
+  </div></div>
+</article></div>
